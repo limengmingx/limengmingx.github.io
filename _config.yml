@@ -1,1 +1,9 @@
-theme: jekyll-theme-leap-day
+theme: raytaylorism
+
+#pagination
+archive_generator:
+  per_page: 0
+tag_generator:
+  per_page: 0
+category_generator:
+  per_page: 0
