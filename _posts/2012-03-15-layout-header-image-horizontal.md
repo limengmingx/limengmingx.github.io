@@ -1,11 +1,10 @@
 ---
 title: "Layout: Header Image (Horizontal)"
 header:
-  image: /assets/images/image-horizontal.jpg
+  image: /assets/images/image-horizontal_cr.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories:
   - Layout
-  - Uncategorized
 tags:
   - edge case
   - featured image
