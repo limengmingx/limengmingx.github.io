@@ -19,14 +19,14 @@ locale                   : "zh-CN"
 title                    : "Blog of Limengmingx"
 title_separator          : "-"
 name                     : "Limengmingx"
-description              : "A blog on cybersecurity and internet technologh from SichuanUniversity"
+description              : "A blog on cybersecurity and internet technology from Sichuan University"
 url                      : "https://limengmingx.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "limengmingx/limengmingx.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs              : false # true, false (default)
 # words_per_minute         : 200
-comments:
+comments:          
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -100,20 +100,20 @@ analytics:
 
 # Site Author
 author:
-  name             : "Atago Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a student from  amazing person."
+  name             : "limenmgingx"
+  avatar           : "/assets/images/guda.jpg"
+  bio              : "Student study on CyberSecurity"
   location         : "Chengdu"
-  email            :
-  uri              :
+  email            : "limenmgingx@sina.cn"
+  uri              : "https://limengmingx.github.io/"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
-  github           :
+  github           : "https://github.com/limengmingx"
   gitlab           :
   google_plus      :
   keybase          :
