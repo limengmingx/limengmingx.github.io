@@ -24,8 +24,8 @@ url                      : "https://limengmingx.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "limengmingx/limengmingx.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+# breadcrumbs              : false # true, false (default)
+# words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
@@ -265,7 +265,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
