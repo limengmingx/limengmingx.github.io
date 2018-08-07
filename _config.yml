@@ -23,7 +23,7 @@ description              : "A blog on cybersecurity and internet technology from
 url                      : "https://limengmingx.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "limengmingx/limengmingx.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/image-horizontal_cr.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs              : false # true, false (default)
 # words_per_minute         : 200
 comments:          
