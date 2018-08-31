@@ -1,5 +1,8 @@
 ---
 title:  "Exclude Post from Search Index"
+header:
+  image: /assets/images/header-1.jpg
+  teaser: /assets/images/header-2.jpg
 search: false
 categories: 
   - Jekyll

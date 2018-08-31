@@ -1,5 +1,8 @@
-﻿---
+---
 title:  "请把茶叶交给汉普比耶夫同志"
+header:
+  image: /assets/images/header-1.jpg
+  teaser: /assets/images/header-2.jpg
 search: false
 categories: 
   - Test
