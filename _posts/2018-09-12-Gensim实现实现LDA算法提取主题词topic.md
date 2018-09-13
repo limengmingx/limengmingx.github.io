@@ -5,11 +5,8 @@ header:
   teaser: /assets/images/header-2.jpg
 search: false
 toc: true
-tags:
-	- gensim
-	- Latent Dirichlet Allocation
-	- python
-	- topic
+categories:
+	- Python
 last_modified_at: 2018-09-12T08:06:00-05:00
 ---
 
