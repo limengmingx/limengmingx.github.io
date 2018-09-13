@@ -5,8 +5,6 @@ header:
   teaser: /assets/images/header-2.jpg
 search: false
 toc: true
-categories: 
-  - Python
 tags:
 	- gensim
 	- Latent Dirichlet Allocation
