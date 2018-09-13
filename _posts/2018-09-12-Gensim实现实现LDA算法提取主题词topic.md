@@ -1,7 +1,7 @@
 ---
 title:  "gensim实现LDA(Latent Dirichlet Allocation)算法提取主题词(topic)"
 header:
-  image: /assets/images/header-3.bmp
+  image: /assets/images/header-3.jpg
   teaser: /assets/images/test_teaser.jpg
 search: false
 toc: true
@@ -9,10 +9,8 @@ categories:
   - python 
  tags:
   - python
-  - LDA
   - Latent Dirichlet Allocation
   - gensim
-  - topic
 last_modified_at: 2018-09-12T08:06:00-05:00
 ---
 

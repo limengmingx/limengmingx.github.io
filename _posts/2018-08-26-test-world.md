@@ -1,8 +1,6 @@
 ---
 title:  "gensim实现LDA(Latent Dirichlet Allocation)算法提取主题词(topic)"
 header:
-  image: /assets/images/header-3.bmp
-  teaser: /assets/images/test_teaser.jpg
 search: false
 toc: true
 categories: 
