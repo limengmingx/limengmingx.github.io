@@ -6,11 +6,7 @@ header:
 search: false
 toc: true
 categories: 
-  - python 
- tags:
-  - python
-  - Latent Dirichlet Allocation
-  - gensim
+  - Python
 last_modified_at: 2018-09-12T08:06:00-05:00
 ---
 
